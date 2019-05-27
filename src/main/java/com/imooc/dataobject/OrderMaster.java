@@ -13,6 +13,7 @@ import java.util.Date;
 @Entity
 @Data
 @DynamicUpdate
+
 public class OrderMaster {
     //订单Id
     @Id
